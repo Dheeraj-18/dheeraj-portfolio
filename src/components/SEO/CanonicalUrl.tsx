@@ -13,7 +13,7 @@ interface CanonicalUrlProps {
  */
 export default function CanonicalUrl({ path }: CanonicalUrlProps) {
   const pathname = usePathname();
-  const baseUrl = "https://omjeemishra.vercel.app";
+  const baseUrl = "https://dheerajsaraswat.vercel.app";
   const canonicalPath = path || pathname || '';
   const canonicalUrl = `${baseUrl}${canonicalPath}`;
   

@@ -23,7 +23,7 @@ export default function JsonLd({ type = "Person", data }: JsonLdProps) {
           description: personalInfo.bio,
           email: personalInfo.email,
           telephone: personalInfo.phone,
-          url: "https://omjeemishra.vercel.app",
+          url: "https://dheerajsaraswat.vercel.app",
           sameAs: [
             personalInfo.socialLinks.github,
             personalInfo.socialLinks.linkedin,
@@ -44,7 +44,7 @@ export default function JsonLd({ type = "Person", data }: JsonLdProps) {
           "@context": "https://schema.org",
           "@type": "WebSite",
           name: personalInfo.name,
-          url: "https://omjeemishra.vercel.app",
+          url: "https://dheerajsaraswat.vercel.app",
           description: personalInfo.bio,
           author: {
             "@type": "Person",
@@ -54,7 +54,7 @@ export default function JsonLd({ type = "Person", data }: JsonLdProps) {
             "@type": "SearchAction",
             target: {
               "@type": "EntryPoint",
-              urlTemplate: "https://omjeemishra.vercel.app/search?q={search_term_string}"
+              urlTemplate: "https://dheerajsaraswat.vercel.app/search?q={search_term_string}"
             },
             "query-input": "required name=search_term_string"
           }
@@ -104,12 +104,12 @@ export default function JsonLd({ type = "Person", data }: JsonLdProps) {
             name: personalInfo.name,
             logo: {
               "@type": "ImageObject",
-              url: "https://omjeemishra.vercel.app/favicons/apple-touch-icon.png"
+              url: "https://dheerajsaraswat.vercel.app/favicons/apple-touch-icon.png"
             }
           },
           mainEntityOfPage: {
             "@type": "WebPage",
-            "@id": `https://omjeemishra.vercel.app${data.url || ''}`
+            "@id": `https://dheerajsaraswat.vercel.app${data.url || ''}`
           },
           keywords: data.keywords?.join(", ") || ""
         };
@@ -123,7 +123,7 @@ export default function JsonLd({ type = "Person", data }: JsonLdProps) {
             "@type": "ListItem",
             "position": index + 1,
             "name": item.name,
-            "item": `https://omjeemishra.vercel.app${item.url}`
+            "item": `https://dheerajsaraswat.vercel.app${item.url}`
           }))
         };
         

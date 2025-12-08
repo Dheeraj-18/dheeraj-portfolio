@@ -79,7 +79,7 @@ export default function Contact() {
       console.log("Error in sending email", error)
       setSubmitResult({
         success: false,
-        message: "Sorry, something went wrong while sending your message. Please feel free to reach out at omjeem558@gmail.com.",
+        message: "Sorry, something went wrong while sending your message. Please feel free to reach out at dheerajsaraswat03@gmail.com.",
       });
     } finally{
       setIsSubmitting(false);

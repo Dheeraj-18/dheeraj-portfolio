@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     address: true,
     telephone: true,
   },
-  metadataBase: new URL("https://omjeemishra.vercel.app"),
+  metadataBase: new URL("https://dheerajsaraswat.vercel.app"),
   alternates: {
     canonical: "/",
   },
