@@ -1,0 +1,24 @@
+{
+  "name": "Dheeraj Saraswat",
+  "title": "Frontend Web Developer",
+  "bio": "Front-End Developer crafting scalable, high-performance UIs that delight users. I turn designs into interactive experiences and optimize every pixel for impact.",
+  "longBio": "I'm a Front-End Developer specializing in building scalable, high-performance user interfaces using React.js, Next.js, Redux, and Tailwind CSS. I focus on turning complex designs into interactive, responsive, and maintainable web applications. I have delivered client projects like Litt.law and Legal Wires, integrating real-time collaboration, AI features, and performance optimizations for thousands of users. When not shipping production code, I experiment with new web technologies, optimize UIs for speed and accessibility, and take on challenging side projects to push my skills further. I believe in writing clean, efficient code, creating delightful user experiences, and continuously learning from every project.",
+  "headline": "From prototypes to production: scalable UIs are my playground.",
+  "profileImage": "/data/ghibli.jpeg",
+  "location": "Aligarh, Uttar Pradesh, India",
+  "email": "dheerajsaraswat03@gmail.com",
+  "phone": "+91 7906519850",
+  "resumeUrl": "https://drive.google.com/file/d/1NaqVS2-bZ8_EIiRY--xUPITkiORR1qa4/view?usp=sharing",
+  "socialLinks": {
+    "github": "https://github.com/Dheeraj-18",
+    "linkedin": "https://www.linkedin.com/in/dheeraj3/",
+    "twitter": "https://x.com/Dheeraj_A03",
+    "instagram": "",
+    "other": [
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/u/think2code/"
+      }
+    ]
+  }
+}

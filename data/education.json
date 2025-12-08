@@ -1,0 +1,48 @@
+[
+  {
+    "id": "education-1",
+    "institution": "GL Bajaj Group of Institutions, Mathura",
+    "degree": "Bachelor of Technology",
+    "field": "Computer Science Engineering",
+    "startDate": "2020-08-01",
+    "endDate": "2024-06-01",
+    "location": "Mathura, Uttar Pradesh, India",
+    "description": "Completed a B.Tech program with a focus on core computer science concepts, software development, and modern web technologies.",
+    "achievements": [
+      "Graduated with a CGPA of 6.8",
+      "Engaged in multiple project-based learning initiatives",
+      "Strengthened expertise in Web Development and AI integration"
+    ],
+    "logoUrl": "/data/glBajaj.jpeg"
+  },
+  {
+    "id": "education-2",
+    "institution": "S.V.M. Sr. Sec. School, Aligarh",
+    "degree": "Senior Secondary (12th Standard)",
+    "field": "Physics, Chemistry, Mathematics (PCM)",
+    "startDate": "2019-04-01",
+    "endDate": "2020-03-31",
+    "location": "Aligarh, Uttar Pradesh, India",
+    "description": "Completed Senior Secondary education with a focus on Physics, Chemistry, and Mathematics.",
+    "achievements": [
+      "Secured 87% in CBSE Board Examination",
+      "Active participant in science exhibitions and debates in school."
+    ],
+    "logoUrl": "/data/svm.jpg"
+  },
+  {
+    "id": "education-3",
+    "institution": "S.V.M. Sr. Sec. School, Aligarh",
+    "degree": "Secondary (10th Standard)",
+    "field": "Science",
+    "startDate": "2017-04-01",
+    "endDate": "2018-03-31",
+    "location": "Aligarh, Uttar Pradesh, India",
+    "description": "Completed Secondary education with a strong foundation in Science and Mathematics.",
+    "achievements": [
+      "Achieved 74.6% in CBSE Board Examination",
+      "Received recognition for highest attendance consecutively for 2 years."
+    ],
+    "logoUrl": "/data/svm.jpg"
+  }
+]

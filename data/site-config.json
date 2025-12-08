@@ -1,0 +1,62 @@
+{
+  "title": "Dheeraj Saraswat | Frontend Web Developer",
+  "description": "Portfolio of Dheeraj Saraswat, a Front-End Developer specializing in scalable, high-performance user interfaces using React, Next.js, and modern web technologies.",
+
+  "theme": {
+    "primaryColor": "#0070f3",
+    "secondaryColor": "#6d28d9",
+    "accentColor": "#f97316",
+    "lightBackground": "#ffffff",
+    "darkBackground": "#121212",
+    "lightText": "#1f2937",
+    "darkText": "#f3f4f6"
+  },
+  "sections": {
+    "hero": true,
+    "about": true,
+    "education": true,
+    "projects": true,
+    "skills": true,
+    "experience": true,
+    "testimonials": false,
+    "contact": true
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "path": "/",
+      "showInHeader": true,
+      "showInFooter": true
+    },
+    {
+      "name": "About",
+      "path": "/#about",
+      "showInHeader": true,
+      "showInFooter": true
+    },
+    {
+      "name": "Projects",
+      "path": "/projects",
+      "showInHeader": true,
+      "showInFooter": true
+    },
+    {
+      "name": "Experience",
+      "path": "/#experience",
+      "showInHeader": true,
+      "showInFooter": true
+    },
+    {
+      "name": "Skills",
+      "path": "/#skills",
+      "showInHeader": true,
+      "showInFooter": true
+    },
+    {
+      "name": "Contact",
+      "path": "/#contact",
+      "showInHeader": true,
+      "showInFooter": true
+    }
+  ]
+}

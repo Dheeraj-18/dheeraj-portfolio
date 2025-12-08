@@ -1,0 +1,36 @@
+[
+  {
+    "id": "experience-1",
+    "company": "Freelance Projects (Lit Law & Legal Wires)",
+    "position": "Freelance Front-End Developer",
+    "location": "Remote / Client Project",
+    "startDate": "2025-01-01",
+    "endDate": "2025-10-31",
+    "description": "Led the end-to-end frontend development for two major client projects: a scalable AI-driven legal platform (Lit Law) and a high-traffic legal news portal (Legal Wires).",
+    "responsibilities": [
+      "Architected the Lit Law frontend using Next.js (SSR), Redux, and Tailwind CSS, engineering a recursive Google-Drive–style document explorer",
+      "Developed a highly-optimized collaborative Tiptap editor for Lit Law, featuring live sync and virtualization for large contracts",
+      "Built and deployed a fully custom Ghost CMS theme for Legal Wires using HTML, CSS, and JS, optimized for Google Discover",
+      "Integrated real-time AI legal assistants into both platforms using REST APIs to handle user queries and boost engagement",
+      "Ensured code quality and performance across projects using Husky, Lint-staged, and advanced hydration strategies"
+    ],
+    "achievements": [
+      "Scaled Legal Wires to support 90,000+ monthly users while maintaining top SEO rankings",
+      "Supported 1,500+ concurrent users on Lit Law with a 48% reduction in perceived latency",
+      "Reduced bounce rate by 24% and increased session duration by 35% across both platforms",
+      "Delivered a 1,000+ monthly increase in user interactions through AI-driven features"
+    ],
+    "technologies": [
+      "Next.js",
+      "React",
+      "Redux",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Tiptap",
+      "Ghost CMS",
+      "JavaScript",
+      "REST APIs",
+      "SEO"
+    ]
+  }
+]
