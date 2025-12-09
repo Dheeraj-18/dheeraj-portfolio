@@ -25,7 +25,7 @@
     "liveUrl": "https://legal-wires.com/",
     "featured": false,
     "startDate": "2025-01-04",
-    "endDate": null,
+    "endDate": "2025-03-04",
     "role": "Freelance Front-End Developer",
     "challenges": [
       "Optimizing the theme structure for Google Discover visibility and high traffic",
@@ -36,7 +36,7 @@
       "Implemented dynamic routing and live search with external LLM integration via REST APIs"
     ]
   },
-    {
+  {
     "id": "project-2",
     "slug": "lit-law",
     "title": "Lit Law",
@@ -59,8 +59,8 @@
     "githubUrl": "",
     "liveUrl": "https://lit.law/",
     "featured": true,
-    "startDate": "2025-04-01",
-    "endDate": null,
+    "startDate": "2025-03-01",
+    "endDate": "2025-12-10",
     "role": "Freelance Front-End Developer",
     "challenges": [
       "Visualizing complex, nested document structures without compromising UI performance",
@@ -73,7 +73,7 @@
   },
   {
     "id": "project-3",
-    "slug": "four-paws",
+    "slug": "portfolio",
     "title": "Personal Portfolio Website",
     "description": "A high-performance personal portfolio built with Next.js, Tailwind CSS, and Framer Motion to showcase freelance projects.",
     "longDescription": "I designed and developed this professional portfolio as a centralized hub to showcase my freelance work and technical expertise. Leveraging Next.js for server-side rendering and superior performance, I engineered a responsive, modern interface using Tailwind CSS. The user experience is elevated through complex, smooth animations and page transitions implemented with Framer Motion, ensuring a seamless journey for recruiters and clients.",
@@ -86,10 +86,10 @@
     "technologies": ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
     "category": ["Frontend", "Web Design"],
     "githubUrl": "",
-    "liveUrl": "https://fourpa.ws/",
+    "liveUrl": "https://dheerajsaraswat.vercel.app//",
     "featured": false,
     "startDate": "2025-01-05",
-    "endDate": "2025-08-20",
+    "endDate": null,
     "role": "Front-End Developer & Designer",
     "challenges": [
       "Balancing complex animations with high-performance Core Web Vitals",
@@ -100,45 +100,41 @@
       "Implemented a mobile-first responsive design using Tailwind CSS utility classes"
     ]
   },
-  {
+{
     "id": "project-4",
-    "slug": "admin-panel-cms",
-    "title": "Admin Panel CMS",
-    "description": "A full-stack CMS platform for multi-user blog management with secure image storage using ImageKit, built with React, Tailwind CSS, Node.js, and Express.js.",
-    "longDescription": "Admin Panel CMS is a scalable, full-stack content management system designed for multi-user blogging workflows. Engineered a responsive admin dashboard using React and Tailwind CSS to allow users and authors to create, edit, update, and publish blog posts. Implemented secure authentication and role-based access control (RBAC) for multiple users and authors. Developed backend APIs with Node.js and Express.js, integrated ImageKit for efficient media upload and management, and optimized data handling with MongoDB. Ensured seamless and secure communication between frontend and backend via JWT authentication and RESTful API design.",
-    "thumbnailUrl": "/api/placeholder?width=600&height=400&text=Admin%20Panel%20CMS&color=8e44ad&textColor=FFFFFF",
+    "slug": "sheeksha-tech",
+    "title": "Sheeksha Tech",
+    "description": "A responsive school management SaaS architecture with a vibrant, accessible UI built using Next.js and Shadcn UI.",
+    "longDescription": "In this collaborative project, I led the front-end engineering for Sheeksha Tech, a modern school management SaaS currently in the development phase. My goal was to move the platform away from traditional, rigid ERP designs by engineering a playful, pastel-themed interface using Next.js and Tailwind CSS. I utilized Shadcn UI as the core component library, extensively customizing its primitives to match the brand's 'fun and friendly' identity. The result is a highly responsive, accessible dashboard architecture designed to handle complex administrative workflows and future scalability.",
+    "thumbnailUrl": "/api/placeholder?width=600&height=400&text=Sheeksha+Tech&color=FF8A65&textColor=FFFFFF",
     "imageUrls": [
-      "/projects/blog1.png",
-      "/projects/blog2.png",
-      "/projects/blog3.png",
-      "/projects/blog4.png",
-      "/projects/blog5.png"
+      "/projects/sheeksha-1.png",
+      "/projects/sheeksha-2.png",
+      "/projects/sheeksha-3.png",
+      "/projects/sheeksha-4.png"
     ],
     "technologies": [
-      "React.js",
+      "Next.js",
+      "React",
+      "Shadcn UI",
       "Tailwind CSS",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "ImageKit.io",
-      "JWT Authentication"
+      "Framer Motion",
+      "TypeScript"
     ],
-    "category": ["Web Development", "Full Stack"],
+    "category": ["Collaboration", "SaaS Product", "UI Engineering"],
     "githubUrl": "",
-    "liveUrl": "https://blog-admin-panel-three.vercel.app/admin",
+    "liveUrl": "https://sheeksh-tech-frontend.vercel.app/",
     "featured": false,
-    "startDate": "2024-01-01",
-    "endDate": "2024-04-30",
-    "role": "Full Stack Developer",
+    "startDate": "2025-10-01",
+    "endDate": null,
+    "role": "Front-End Developer",
     "challenges": [
-      "Implementing scalable role-based access control for users and authors",
-      "Ensuring secure and optimized image upload and storage using ImageKit",
-      "Maintaining synchronization between frontend state and backend database operations"
+      "Heavily customizing the minimalist Shadcn UI system to support a multi-colored, vibrant pastel theme",
+      "Ensuring high performance and layout stability for complex, data-heavy dashboard views"
     ],
     "solutions": [
-      "Developed a robust RBAC system with JWT and middleware-based route protection",
-      "Integrated ImageKit SDKs for secure, scalable media uploads and retrieval",
-      "Built efficient RESTful APIs and optimized state management on the client side using React Context and custom hooks"
+      "Architected a scalable design token system within Tailwind CSS to override Shadcn defaults without breaking accessibility",
+      "Implemented modular dashboard widgets using Next.js server components for optimal loading speeds"
     ]
-  }
+}
 ]
