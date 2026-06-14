@@ -1,36 +1,70 @@
 [
   {
     "id": "experience-1",
-    "company": "Freelance Projects (Lit Law & Legal Wires)",
-    "position": "Freelance Front-End Developer",
-    "location": "Remote / Client Project",
-    "startDate": "2025-01-01",
-    "endDate": "2025-11-20",
-    "description": "Led the end-to-end frontend development for two major client projects: a scalable AI-driven legal platform (Lit Law) and a high-traffic legal news portal (Legal Wires).",
+    "company": "JF Knowledge Centre Pvt. Ltd. | Client: Creditors Academy (USA)",
+    "position": "Frontend Developer",
+    "location": "Delhi, India",
+    "startDate": "2026-01-01",
+    "endDate": "2026-05-31",
+    "description": "Led the frontend modernization of a large-scale Learning Management System (LMS) and contributed to an internal website builder platform, focusing on scalability, performance optimization, and enterprise-grade user experiences.",
     "responsibilities": [
-      "Architected the Lit Law frontend using Next.js (SSR), Redux, and Tailwind CSS, engineering a recursive Google-Drive–style document explorer",
-      "Developed a highly-optimized collaborative Tiptap editor for Lit Law, featuring live sync and virtualization for large contracts",
-      "Built and deployed a fully custom Ghost CMS theme for Legal Wires using HTML, CSS, and JS, optimized for Google Discover",
-      "Integrated real-time AI legal assistants into both platforms using REST APIs to handle user queries and boost engagement",
-      "Ensured code quality and performance across projects using Husky, Lint-staged, and advanced hydration strategies"
+      "Revamped LMS frontend architecture using React.js, Next.js, TypeScript, Tailwind CSS, and REST APIs across student, instructor, and admin workflows",
+      "Designed and developed dashboard systems, CMS modules, analytics interfaces, and reusable form workflows using a component-driven architecture",
+      "Built 20+ reusable UI components including tables, forms, modals, filters, and data visualization modules to accelerate feature delivery",
+      "Implemented dynamic imports, lazy loading, hydration optimization, image optimization, and route-level code splitting for performance improvements",
+      "Integrated RESTful APIs, RBAC authentication, asynchronous data workflows, and real-time dashboard interactions within Agile/Scrum teams"
     ],
     "achievements": [
-      "Scaled Legal Wires to support 90,000+ monthly users while maintaining top SEO rankings",
-      "Supported 1,500+ concurrent users on Lit Law with a 48% reduction in perceived latency",
-      "Reduced bounce rate by 24% and increased session duration by 35% across both platforms",
-      "Delivered a 1,000+ monthly increase in user interactions through AI-driven features"
+      "Reduced frontend bundle size by 30%+ through code splitting and optimization strategies",
+      "Improved Core Web Vitals and overall application responsiveness across dashboard modules",
+      "Accelerated development velocity through a scalable component library and reusable architecture",
+      "Contributed to the development of an internal website builder platform from the ground up"
     ],
     "technologies": [
+      "React.js",
       "Next.js",
-      "React",
-      "Redux",
-      "Tailwind CSS",
-      "Framer Motion",
-      "Tiptap",
-      "Ghost CMS",
+      "TypeScript",
       "JavaScript",
+      "Tailwind CSS",
       "REST APIs",
-      "SEO"
+      "RBAC",
+      "CMS",
+      "LMS",
+      "Agile/Scrum"
+    ]
+  },
+  {
+    "id": "experience-2",
+    "company": "Cresce Technology Pvt. Ltd. (SalaryBox)",
+    "position": "Software Developer Intern",
+    "location": "Delhi, India",
+    "startDate": "2023-12-01",
+    "endDate": "2024-06-30",
+    "description": "Worked on HRMS and workforce management products, building responsive frontend applications, dashboard systems, and business workflow modules used across employee management and operational platforms.",
+    "responsibilities": [
+      "Developed responsive web applications using React.js, JavaScript (ES6+), HTML5, CSS3, and REST APIs",
+      "Built dashboard interfaces, CMS modules, employee management systems, reporting workflows, and admin panels",
+      "Engineered 15+ reusable UI components including forms, tables, filters, modals, and analytics widgets",
+      "Integrated APIs for attendance management, payroll processing, employee records, and reporting systems",
+      "Collaborated with product managers, designers, QA teams, and senior engineers in Agile development cycles"
+    ],
+    "achievements": [
+      "Improved maintainability through reusable component architecture and frontend refactoring",
+      "Enhanced application responsiveness via lazy loading and rendering optimizations",
+      "Accelerated feature delivery through reusable UI systems and shared frontend patterns",
+      "Contributed to production releases, bug fixes, testing, and code review processes"
+    ],
+    "technologies": [
+      "React.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "CMS",
+      "Dashboard Development",
+      "HRMS",
+      "Git",
+      "Agile/Scrum"
     ]
   }
 ]
